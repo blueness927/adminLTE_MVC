@@ -5,7 +5,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using ManageSystem_MVC.Models;
+using ManageSystem_MVC.Areas.Web_Manage.Models;
 
 namespace ManageSystem_MVC
 {

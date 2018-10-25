@@ -10,7 +10,7 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using ManageSystem_MVC.Models;
+using ManageSystem_MVC.Areas.Web_Manage.Models;
 
 namespace ManageSystem_MVC
 {
